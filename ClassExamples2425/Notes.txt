@@ -1,0 +1,7 @@
+﻿Properties - Access control to the inside of the object. When you create an object (instantiate an object), the properties control what you can access inside that object. <--- Protecting an object is Encapsulation. 
+
+Attributes - variables of everything - string, int, floats, lists, arrays, objects... any type of object 
+
+Inside the class there are Attributes and Methods... can a method be assigned to an attribute?
+
+Constructor - Constructors are special methods that are called when an instance of the class is created. They allow you to set initial values for the object's properties. If no constructor is defined, C# provides a default parameterless constructor.
